@@ -1,0 +1,97 @@
+.app-header {
+  height: 60px;
+  line-height: 60px;
+  border-bottom: thin lightgrey solid;
+}
+
+.app-header .app-header--title {
+  font-size: 22px;
+  padding-left: 5px;
+}
+.img_header {
+  height: 70px;
+  border-radius: 100px;
+  width: 70px;
+}
+.header {
+  height: 100px;
+}
+.header_title {
+  font-weight: 1000;
+  font-size: 22px;
+}
+.badges {
+  margin-left: 30px;
+  font-size: 22px;
+  margin-right: 30px;
+}
+.desciption_title {
+  color: '#151313';
+  font-size: 22px;
+  font-weight: 1000;
+  margin-bottom: 33px;
+}
+.Input {
+  color: blue;
+  font-size: 14px;
+  width: 130%;
+}
+
+.button {
+  border-radius: 20px;
+  width: 14%;
+  color: beige;
+  font-size: 16;
+  margin-left: 90px;
+  height: 40px;
+  font-weight: 700;
+}
+
+.upload_img {
+  width: 120%;
+  height: 40px;
+  border-width: 2px;
+  border-style: dashed;
+  border-radius: 5px;
+  text-align: center;
+  padding: 3px;
+  margin-right: 40px;
+  cursor: pointer;
+}
+
+.test {
+  width: 100%;
+  height: 120px;
+}
+.img_predict {
+  height: 240px;
+  width: 300px;
+}
+.Card {
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 100%;
+  margin-left: 22px;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container_predict {
+  width: 70%;
+  min-width: 1000px;
+  margin-left: 20;
+}
+.container_layout {
+  margin-top: 40px;
+  margin-left: 10%;
+}
+.img_upload_pred {
+  height: 300px;
+  width: 600px;
+ 
+}
+.img_upload_url {
+  height: 240px;
+  width: 300px;
+}
